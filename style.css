@@ -1,0 +1,14 @@
+#div{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+
+}
+.div{
+    background-color: red !important;
+}
+#div1{
+    background-color: black;
+    width: 200px;
+    height: 200px;
+}
